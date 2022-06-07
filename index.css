@@ -1,0 +1,22 @@
+.container{
+    display: grid;
+}
+
+.left{
+    grid-column: 1;
+}
+
+.right{
+    grid-column: 2;
+    margin-left: 1rem;
+}
+img{
+    width:200px;
+border: solid;
+
+}
+
+p{
+
+    border: dashed;
+}
